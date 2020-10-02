@@ -73,5 +73,3 @@ https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true",Ring of Honor Wrestling
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/guVDfBx.png",NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
