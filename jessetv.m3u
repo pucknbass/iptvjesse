@@ -37,7 +37,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png",USA/TNT/Wrestling
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png", TNT/USA
 http://cdnak8.cast4u.info/channels/2/10802.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true",Global News National
