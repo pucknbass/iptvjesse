@@ -40,6 +40,12 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png", TNT/USA
 http://cdnak8.cast4u.info/channels/2/10802.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",FOX 28 (WTGS)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1 tvg-logo="",KTLA 5
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
