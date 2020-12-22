@@ -13,6 +13,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true",TVA 
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZmcpEE.png",Tele Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true",TV Fireplace Holiday
 https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
 
@@ -21,6 +24,9 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gxGGalE.jpg",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
