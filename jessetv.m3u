@@ -43,7 +43,7 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true",Knowledge Network (Geo)
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ynslys.png",The CW-WHP 11 (Harrisburg, Pennsylvania)
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ynslys.png",The CW
 https://cdn006.teleuptv.net/rTK2EQCVCX/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png",CBS
