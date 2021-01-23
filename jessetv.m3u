@@ -25,10 +25,10 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 
-#EXTINF:-1 tvg-logo="" ,CBC Toronto
-https://cdn006.teleuptv.net/ydcl2V1MVC/playlist.m3u8
+#EXTINF:-1  tvg-logo="",CTV Toronto (720p)
+https://cdn006.teleuptv.net/zxsJFt6VvY/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="",CityTV Toronto
+#EXTINF:-1 tvg-logo="",CityTV Toronto
 https://cdn006.teleuptv.net/iSykLSKMFr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",CBC Ottawa
