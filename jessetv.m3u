@@ -7,7 +7,7 @@ https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png",ICI Tele CB-Yukon
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true",noovo
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true",Noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true",TVA 
@@ -25,6 +25,9 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true",Global Toronto
+https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
@@ -37,14 +40,8 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true",Knowledge Network (Geo)
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",CBS 2 New York (WCBS-TV)
-https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
@@ -76,9 +73,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png",Comet TV
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true",WZTS-TV | Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
@@ -90,21 +84,6 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png",AMC | IFC Film Picks
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png",AMC | Slightly Off by IFC
-https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png",AMC | Absolute Reality by We TV
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true",AFV Family (Viral Videos)
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true",The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true",Jerry Springer
 https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
