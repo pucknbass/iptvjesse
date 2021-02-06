@@ -37,14 +37,41 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true",Knowledge Network (Geo)
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
+#EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CBS 2 New York (WCBS-TV)
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+#EXTINF:-1tvg-logo="",Cinemax (East)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+
+#EXTINF:-1 tvg-logo="",Epix (East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+
+#EXTINF:-1 tvg-logo="",HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+
+#EXTINF:-1 tvg-logo="",Showtime (East)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+
+#EXTINF:-1 tvg-logo="",STARZ (West) 
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+
+#EXTINF:-1 tvg-logo="",STARZ Encore 
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39NuAwl.png",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -76,13 +103,24 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true",The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true",Jerry Springer
 https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true",Ring of Honor Wrestling
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png",Pluto TV Pro Wrestling
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=669&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png",Lucha Libre AAA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png",IMPACT Wrestling
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
 
 
