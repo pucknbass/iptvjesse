@@ -26,11 +26,10 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png",CityTV Toronto
-https://ts002.teleuptv.net/iSykLSKMFr/playlist.m3u8
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/uafvsq.png",CTV Toronto
-https://ts002.teleuptv.net/zxsJFt6VvY/playlist.m3u8
-
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",CBC Ottawa
@@ -53,6 +52,9 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/usa-network.png",USA Network
+https://ts001.teleuptv.net/JnVLClgyvD/playlist.m3u8
 
 #EXTINF:-1tvg-logo="",Cinemax (East)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
