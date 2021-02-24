@@ -44,17 +44,8 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KnowledgeNetwork_235x235.png?raw=true",Knowledge Network (Geo)
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png",NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/usa-network.png",USA Network
-https://ts001.teleuptv.net/JnVLClgyvD/playlist.m3u8
 
 #EXTINF:-1tvg-logo="",Cinemax (East)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
